@@ -121,7 +121,11 @@ else:
 **Average per Iteration:** \~1.41 seconds
 
 🖼️ *Sample GPU Monitoring (replace with your screenshot):*\
-![nvidia-smi usage](docs/images/nvidia-smi.png)
+![nvidia-smi usage](./images/nvidia-smi1.png)
+![nvidia-smi usage](./images/nvidia-smi2.png)
+![nvidia-smi usage](./images/nvidia-smi3.png)
+![nvidia-smi usage](./images/nvidia-smi4.png)
+![nvidia-smi usage](./images/nvidia-smi5.png)
 
 ------------------------------------------------------------------------
 
@@ -131,9 +135,8 @@ else:
     │── gp.py                # Benchmark script
     │── gpu-setup.docx       # Detailed setup instructions
     │── README.md            # This file
-    │── docs/
-        └── images/          # Screenshots, GPU monitoring graphs
-
+    │── images/              # Screenshots, GPU monitoring graphs
+                 
 ------------------------------------------------------------------------
 
 ## 🤝 Contributing
